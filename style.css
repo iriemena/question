@@ -67,6 +67,7 @@ span {
   animation: all 4s ease-in-out infinite;
   font-size: 0.8rem;
   }
+
   @keyframes all{
     10%{
       color: hotpink;
