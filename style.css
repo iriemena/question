@@ -65,6 +65,7 @@ span {
   left: 50%;
   transform: translate(-50%, -50%);
   animation: all 4s ease-in-out infinite;
+  font-size: 0.8rem;
   }
   @keyframes all{
     10%{
